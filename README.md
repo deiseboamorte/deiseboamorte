@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Deise Boa Morte
 
-<!--
-**deiseboamorte/deiseboamorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Projetos de TI  
+📊 Foco em análise de dados, SQL e melhoria de processos  
+🚀 Experiência com ERP (TOTVS), requisitos e projetos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias e Ferramentas
+- Java | Python | C# | JavaScript  
+- SQL Server | MySQL  
+- HTML | CSS | Bootstrap  
+- Git | GitHub  
+- Scrum | UML | PMBOK  
+
+---
+
+## 📌 Projetos em destaque
+
+
+
+## 📫 Contato
+📧 deiseboamorte@yahoo.com  
+🔗 www.linkedin.com/in/deise-dos-santos-boa-morte-b617a3186
