@@ -17,6 +17,9 @@
 
 ## 📌 Projetos em destaque
 
+personal-trainer-ai
+
+
 
 
 ## 📫 Contato
